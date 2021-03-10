@@ -11,6 +11,7 @@ namespace Vsite.Oom
         {
             try
             {
+
                 double k1 = double.Parse(args[0]);
                 double l1 = double.Parse(args[1]);
                 double k2 = double.Parse(args[2]);
